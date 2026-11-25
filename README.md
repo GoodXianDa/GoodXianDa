@@ -12,7 +12,7 @@
       Harbin Institute of Technology, Shenzhen (HITSZ)
     </td>
     <td width="35%" valign="top">
-      <sub>EMBEDDED SOFTWARE DEVELOPMENT</sub><br><br>
+      <sub>CAREER</sub><br><br>
       <strong>Embedded Software Developer</strong>
     </td>
   </tr>
